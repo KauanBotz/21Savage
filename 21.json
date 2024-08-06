@@ -1,0 +1,133 @@
+{
+    "albums": [
+      {
+        "title": "Issa Album",
+        "release_date": "2017-07-07",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/12/21_Savage_-_Issa_Album.png",
+        "tracks": [
+          { "title": "Famous", "duration": "3:30" },
+          { "title": "Bank Account", "duration": "3:40" },
+          { "title": "Close My Eyes", "duration": "4:23" }
+        ]
+      },
+      {
+        "title": "Without Warning",
+        "release_date": "2017-10-31",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730db43130a9aaa7bae56967ed",
+        "tracks": [
+          { "title": "Ghostface Killers", "duration": "4:29", "features": ["Travis Scott"] },
+          { "title": "Ric Flair Drip", "duration": "2:52" },
+          { "title": "Rap Saved Me", "duration": "4:23", "features": ["Quavo"] }
+        ]
+      },
+      {
+        "title": "I Am > I Was",
+        "release_date": "2018-12-21",
+        "image": "https://m.media-amazon.com/images/I/81qfoKPYk0L._UF1000,1000_QL80_.jpg",
+        "tracks": [
+          { "title": "a lot", "duration": "4:48", "features": ["J. Cole"] },
+          { "title": "all my friends", "duration": "3:31", "features": ["Post Malone"] },
+          { "title": "monster", "duration": "4:03", "features": ["Childish Gambino"] }
+        ]
+      },
+      {
+        "title": "Savage Mode II",
+        "release_date": "2020-10-02",
+        "image": "https://m.media-amazon.com/images/I/91Gf50qbGAL._UF1000,1000_QL80_.jpg",
+        "tracks": [
+          { "title": "Runnin", "duration": "3:15" },
+          { "title": "Mr. Right Now", "duration": "3:13", "features": ["Drake"] },
+          { "title": "Rich Nigga Shit", "duration": "3:05", "features": ["Young Thug"] }
+        ]
+      },
+      {
+        "title": "Her Loss",
+        "release_date": "2022-11-04",
+        "image": "https://s2-g1.glbimg.com/oVjuus8lriMkCH4GXSZiSrfBr0Y=/0x0:1440x1440/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/L/R/BrXYRnQ9yzJXlloABNgQ/drake-her-loss.jpg",
+        "tracks": [
+          { "title": "Rich Flex", "duration": "3:59" },
+          { "title": "On BS", "duration": "3:33" },
+          { "title": "Major Distribution", "duration": "2:50" }
+        ]
+      }
+    ],
+    "singles": [
+      {
+        "title": "Secret",
+        "release_date": "2020-04-03",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731dde84b245fa518dd2e61e3b",
+        "duration": "3:47",
+        "features": ["Summer Walker"]
+      },
+      {
+        "title": "Runnin",
+        "release_date": "2020-10-02",
+        "image": "https://i1.sndcdn.com/artworks-dQKmBMgnrZplfRW7-HFi35A-t500x500.jpg",
+        "duration": "3:15"
+      },
+      {
+        "title": "Rich Nigga Shit",
+        "release_date": "2020-10-02",
+        "image": "https://m.media-amazon.com/images/I/91Gf50qbGAL._UF1000,1000_QL80_.jpg",
+        "duration": "3:05",
+        "features": ["Young Thug"]
+      },
+      {
+        "title": "Spiral",
+        "release_date": "2021-05-14",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ee2b04ea9c5e0ecdd6b69356",
+        "duration": "3:17"
+      },
+      {
+        "title": "Knife Talk",
+        "release_date": "2021-11-05",
+        "image": "https://i.scdn.co/image/ab67616d0000b273efacb3f2c17074f19a75b899",
+        "duration": "4:02",
+        "features": ["Drake", "Project Pat"]
+      }
+    ],
+    "feats": [
+      {
+        "title": "Rockstar",
+        "artist": "Post Malone",
+        "album": "Beerbongs & Bentleys",
+        "release_date": "2017-09-15",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+        "duration": "3:38"
+      },
+      {
+        "title": "Bartier Cardi",
+        "artist": "Cardi B",
+        "album": "Invasion of Privacy",
+        "release_date": "2017-12-22",
+        "image": "https://i1.sndcdn.com/artworks-000273678650-qn97n0-t500x500.jpg",
+        "duration": "3:44"
+      },
+      {
+        "title": "Hot",
+        "artist": "Young Thug",
+        "album": "So Much Fun",
+        "release_date": "2019-08-16",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736fcd1b6e205d0d19d9efa0cc",
+        "duration": "3:13",
+        "features": ["Gunna"]
+      },
+      {
+        "title": "Creepin'",
+        "artist": "Metro Boomin, The Weeknd, 21 Savage",
+        "album": "Heroes & Villains",
+        "release_date": "2022-12-02",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+        "duration": "3:41"
+      },
+      {
+        "title": "BBO (Bad Bitches Only)",
+        "artist": "Migos",
+        "album": "Culture II",
+        "release_date": "2018-01-26",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
+        "duration": "4:10"
+      }
+    ]
+  }
+  

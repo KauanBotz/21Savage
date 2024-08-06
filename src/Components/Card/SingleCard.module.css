@@ -1,0 +1,29 @@
+.single-card {
+    background-color: #2d2d2d;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    width: 200px;
+    margin: 10px;
+  }
+  
+  .single-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .single-info {
+    padding: 10px;
+  }
+  
+  .single-info h3 {
+    margin: 10px 0;
+    font-size: 1.2em;
+  }
+  
+  .single-info p {
+    margin: 5px 0;
+    color: #bbbbbb;
+  }
+  

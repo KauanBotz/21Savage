@@ -1,0 +1,75 @@
+
+
+.sectionContacts {
+    width: 1216px;
+    margin: 0 auto;
+    margin-top: 150px;
+    height: 100%;
+    color: white;
+}
+
+.wrapperContacts {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.left, .right {
+    flex: 1;
+    padding: 20px;
+    width: 400px;
+}
+
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.nameFields {
+    display: flex;
+    justify-content: space-between;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    width: 48%;
+}
+
+.contactForm label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.contactForm input,
+.contactForm textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.contactForm button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: white;
+    color: #373D4A;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+ 
+.right {
+    mix-blend-mode: normal;
+    width: 400px;
+}
+
+
+.imgContatct {
+    width: 600px;
+}

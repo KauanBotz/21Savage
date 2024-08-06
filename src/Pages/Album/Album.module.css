@@ -1,0 +1,14 @@
+.app {
+  background-color: #1b1b1b;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.album-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
